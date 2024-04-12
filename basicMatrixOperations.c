@@ -157,6 +157,7 @@ int main()
             }
         }
         else if (opt == 4) // Transpose
+
         {
             printf("\nYou chose Matrix Transpose, is that correct?\nEnter 1 to confirm\nPress any other integer key if wrong\n");
             scanf("%d", &a);
@@ -188,7 +189,25 @@ int main()
                 continue;
             }
         }
-        else if (opt == 5) // Program End
+        else if (opt == 5) // Determinent
+        {
+            printf("\nYou chose Determinentof a Matrix, is that correct?\nEnter 1 to confirm\nPress any other integer key if wrong\n");
+            scanf("%d", &a);
+
+            if (a == 1)
+            {
+                printf("Enter the Values of the 3x3 Matrix:\n"); // input
+                matInput(matA, lim);
+
+                int det;
+                det = (matA[0][0] * ((matA[1][1] * matA[2][2]) - (matA[1][2] * matA[2][1]))) - (matA[0][1] * ((matA[1][0] * matA[2][2]) - (matA[1][2] * matA[2][0]))) + (matA[0][2] * ((matA[1][0] * matA[2][1]) - (matA[1][1] * matA[2][0])));
+            }
+            else
+            {
+                continue;
+            }
+        }
+        else if (opt == 6) // Program End
         {
             break;
         }
