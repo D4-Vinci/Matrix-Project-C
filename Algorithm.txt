@@ -21,7 +21,7 @@ Step-20: Repeat processes 21 to 22, until value of variable i = 0, less than lim
 Step-21: Repeat processes 22, until value of variable j = 0, less than lim.
 Step-22: Value of a position of array sum(i,j), is the sum of the corresponding values at arrays, matA and matB.
 Step-23: Print the values of the array sum, using the output function. 
-Step-24: If selection equals 2, execute processes 25 to , else skip to next process.
+Step-24: If selection equals 2, execute processes 25 to 33, else skip to next process.
 Step-25: Enter the value for the variable lim, as the limit of the array.
 Step-26: Input values for the first and second arrays, matA and matB, using the input function.
 Step-27: Display both of the arrays.
@@ -31,3 +31,11 @@ Step-30: Repeat process 31, until value of variable k = 0, less than lim.
 Step-31: Set value of mul(i,j) = 0.
 Step-32: Value of a position of array mul(i,j), is the sum of the corresponding values at mul(i,j), and the product of matA(i,k) and matB(k,j).
 Step-33: Print the values of the array mul, using the output function.
+Step-34: If selection equals 3, execute processes 35 to 41, else skip to next process.
+Step-35: Enter the value for the variable lim, as the limit of the array.
+Step-36: Input values for the array matA, using the input function.
+Step-37: Display the array.
+Step-38: Repeat processes 39 to 40, until value of variable i = 0, less than lim.
+Step-39: Repeat processes 40, until value of variable j = 0, less than lim.
+Step-40: Value of a position of array tra(i,j), is value of at the position of array matA(j,i).
+Step-41: Print the values of the array tra, using the output function.
