@@ -9,3 +9,25 @@ Step-8: Repeat processes 9 to 10, until integer variable "k" with value 0, becom
 Step-9: Repeat process 10, until integer variable "l" with value 0, becomes less than 'li'.
 Step-10: Print the value for the location of the individualplaces of the array, where positions equal to the value of k as rows, and the value of l as columns.
 Step-11: End function
+Step-12: Define main function
+Step-13: Define integer variables - opt, lim, i, j, and integer arrays - matA, matB, sum, mul, tra.
+Step-14: Repeat process 15 to , until the loop is broken with a choice.
+Step-15: Ask for options which does the corresponding function to them.
+Step-16: If selection equals 1, execute processes 17 to 23, else skip to next process.
+Step-17: Enter the value for the variable lim, as the limit of the array.
+Step-18: Input values for the first and second arrays, matA and matB, using the input function.
+Step-19: Display both of the arrays.
+Step-20: Repeat processes 21 to 22, until value of variable i = 0, less than lim.
+Step-21: Repeat processes 22, until value of variable j = 0, less than lim.
+Step-22: Value of a position of array sum(i,j), is the sum of the corresponding values at arrays, matA and matB.
+Step-23: Print the values of the array sum, using the output function. 
+Step-24: If selection equals 2, execute processes 25 to , else skip to next process.
+Step-25: Enter the value for the variable lim, as the limit of the array.
+Step-26: Input values for the first and second arrays, matA and matB, using the input function.
+Step-27: Display both of the arrays.
+Step-28: Repeat processes 29 to 31, until value of variable i = 0, less than lim.
+Step-29: Repeat processes 30 to 31, until value of variable j = 0, less than lim.
+Step-30: Repeat process 31, until value of variable k = 0, less than lim.
+Step-31: Set value of mul(i,j) = 0.
+Step-32: Value of a position of array mul(i,j), is the sum of the corresponding values at mul(i,j), and the product of matA(i,k) and matB(k,j).
+Step-33: Print the values of the array mul, using the output function.
