@@ -11,7 +11,7 @@ Step-10: Print the value for the location of the individualplaces of the array, 
 Step-11: End function
 Step-12: Define main function
 Step-13: Define integer variables - opt, lim, i, j, and integer arrays - matA, matB, sum, mul, tra.
-Step-14: Repeat process 15 to , until the loop is broken with a choice.
+Step-14: Repeat process 15 to 44, until the loop is broken with a choice.
 Step-15: Ask for options which does the corresponding function to them.
 Step-16: If selection equals 1, execute processes 17 to 23, else skip to next process.
 Step-17: Enter the value for the variable lim, as the limit of the array.
@@ -39,3 +39,7 @@ Step-38: Repeat processes 39 to 40, until value of variable i = 0, less than lim
 Step-39: Repeat processes 40, until value of variable j = 0, less than lim.
 Step-40: Value of a position of array tra(i,j), is value of at the position of array matA(j,i).
 Step-41: Print the values of the array tra, using the output function.
+Step-42: If selection equal 4, execute process 43, else skip to next process.
+Step-43: Break the loop.
+Step-44: If selection be anything else, show default message.
+Step-45: Stop
