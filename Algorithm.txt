@@ -1,0 +1,11 @@
+Step-1: Start
+Step-2: Define function for input of values, into a given multi-dimensional array "matrix", with a variable "li".
+Step-3: Repeat processes 4 to 5, until integer variable "k" with value 0, becomes less than 'li'.
+Step-4: Repeat process 5, until integer variable "l" with value 0, becomes less than 'li'.
+Step-5: Scan the value for the location of the individualplaces of the array, where positions equal to the value of k as rows, and the value of l as columns.
+Step-6: End function
+Step-7: Define function for output of values, into a given multi-dimensional array "matrix", with a variable "li".
+Step-8: Repeat processes 9 to 10, until integer variable "k" with value 0, becomes less than 'li'.
+Step-9: Repeat process 10, until integer variable "l" with value 0, becomes less than 'li'.
+Step-10: Print the value for the location of the individualplaces of the array, where positions equal to the value of k as rows, and the value of l as columns.
+Step-11: End function
