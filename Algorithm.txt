@@ -43,4 +43,3 @@ Step-42: If selection equal 4, execute process 43, else skip to next process.
 Step-43: Break the loop.
 Step-44: If selection be anything else, show default message.
 Step-45: Stop
-An updated version will be released soon.
