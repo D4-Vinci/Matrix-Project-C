@@ -209,6 +209,7 @@ int main()
         }
         else if (opt == 6) // Program End
         {
+            printf("Thank You for using the program.");
             break;
         }
         else // Error Key
