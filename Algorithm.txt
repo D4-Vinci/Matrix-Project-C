@@ -43,7 +43,7 @@ Step-42: If selection equals 4, execute processes 43 to 49, else skip to next pr
 Step-43: Enter the value for the variable lim, as the limit of the array.
 Step-44: Input values for the array matA, using the input function.
 Step-45: Display the array.
-Step-46: Repeat processes 47 to , until value of variable i = 0, less than lim.
+Step-46: Repeat processes 47 to 48, until value of variable i = 0, less than lim.
 Step-47: Repeat processes 48, until value of variable j = 0, less than lim.
 Step-48: Value of a position of array tra(i,j), is value of at the position of array matA(j,i).
 Step-49: Print the values of the array tra, using the output function.
