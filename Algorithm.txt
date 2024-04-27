@@ -13,7 +13,7 @@ Step-12: Define main function
 Step-13: Define integer variables - opt, lim, i, j, and integer arrays - matA, matB, sum, diff, mul, tra.
 Step-14: Repeat process 15 to 44, until the loop is broken with a choice.
 Step-15: Ask for options which does the corresponding function to them.
-Step-16: If selection equals 1, execute processes 17 to 23, else skip to next process.
+Step-16: If selection equals 1, execute processes 17 to 23, else skip to next process. //ADDITION
 Step-17: Enter the value for the variable lim, as the limit of the array.
 Step-18: Input values for the first and second arrays, matA and matB, using the input function.
 Step-19: Display both of the arrays.
@@ -21,7 +21,7 @@ Step-20: Repeat processes 21 to 22, until value of variable i = 0, less than lim
 Step-21: Repeat processes 22, until value of variable j = 0, less than lim.
 Step-22: Value of a position of array sum(i,j), is the sum of the corresponding values at arrays, matA and matB.
 Step-23: Print the values of the array sum, using the output function.
-Step-24: If selection equals 2, execute processes 25 to 31, else skip to next process.
+Step-24: If selection equals 2, execute processes 25 to 31, else skip to next process. //SUBSTRACTION
 Step-25: Enter the value for the variable lim, as the limit of the array.
 Step-26: Input values for the first and second arrays, matA and matB, using the input function.
 Step-27: Display both of the arrays.
@@ -29,7 +29,7 @@ Step-28: Repeat processes 29 to 30, until value of variable i = 0, less than lim
 Step-29: Repeat processes 30, until value of variable j = 0, less than lim.
 Step-30: Value of a position of array diff(i,j), is the difference of the corresponding values at arrays, matA and matB.
 Step-31: Print the values of the array diff, using the output function.
-Step-32: If selection equals 3, execute processes 33 to 41, else skip to next process.
+Step-32: If selection equals 3, execute processes 33 to 41, else skip to next process. //MULTIPLICATION
 Step-33: Enter the value for the variable lim, as the limit of the array.
 Step-34: Input values for the first and second arrays, matA and matB, using the input function.
 Step-35: Display both of the arrays.
@@ -39,7 +39,7 @@ Step-38: Repeat process 39, until value of variable k = 0, less than lim.
 Step-39: Set value of mul(i,j) = 0.
 Step-40: Value of a position of array mul(i,j), is the sum of the corresponding values at mul(i,j), and the product of matA(i,k) and matB(k,j).
 Step-41: Print the values of the array mul, using the output function.
-Step-42: If selection equals 4, execute processes 43 to 49, else skip to next process.
+Step-42: If selection equals 4, execute processes 43 to 49, else skip to next process. //TRANSPOSE
 Step-43: Enter the value for the variable lim, as the limit of the array.
 Step-44: Input values for the array matA, using the input function.
 Step-45: Display the array.
