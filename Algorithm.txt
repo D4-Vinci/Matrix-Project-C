@@ -47,7 +47,13 @@ Step-46: Repeat processes 47 to 48, until value of variable i = 0, less than lim
 Step-47: Repeat processes 48, until value of variable j = 0, less than lim.
 Step-48: Value of a position of array tra(i,j), is value of at the position of array matA(j,i).
 Step-49: Print the values of the array tra, using the output function.
-Step-50: If selection equal 5, execute process 51, else skip to next process.
-Step-51: Break the loop.
-Step-52: If selection be anything else, show default message.
-Step-53: Stop
+Step-50: If selection equals 5, execute processes 51 to 55, else skip to next process. //DETERMINENT
+Step-51: Enter the value for the variable lim, as the limit of the array.
+Step-52: Input values for the array matA, using the input function.
+Step-53: Display the array.
+Step-54: Variable det equals to value obtained after putting each value, at their corresponding positions in the determinent equation.
+Step-55: Print value of the variable det.
+Step-56: If selection equal 6, execute process 57, else skip to next process.
+Step-57: Break the loop.
+Step-58: If selection be anything else, show default message.
+Step-59: Stop
